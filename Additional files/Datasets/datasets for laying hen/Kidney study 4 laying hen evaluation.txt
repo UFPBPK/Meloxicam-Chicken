@@ -1,0 +1,17 @@
+Study 4  laying hen kidney evaluation Figure 6B
+1 mg/kg PO q12h to 20 domestic hens plasma
+Time  	Concentration
+229	2.39116183
+232	2.859624996
+234	0.944943304
+236	0.948966861
+240	0.399135852
+244	0.384880996
+252	0.04209272
+264	0.045447909
+
+
+
+
+
+

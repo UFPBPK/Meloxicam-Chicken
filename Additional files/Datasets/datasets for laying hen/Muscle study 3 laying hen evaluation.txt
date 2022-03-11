@@ -1,0 +1,10 @@
+Study 3  laying hen muscle evaluation  Figure 4C
+1 mg/kg PO q24h to 8 domestic hens plasma
+Time  	Concentration
+169.0	0.05148555
+172.0	0.231213969
+174	0.161834844
+176	0.039789665
+180	0.045397175
+184	0.020639327
+

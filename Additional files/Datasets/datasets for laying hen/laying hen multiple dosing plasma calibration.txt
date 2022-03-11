@@ -1,0 +1,17 @@
+Study 4:	Validation 1/12/2019-1/23/2019   Figure 3C
+Dosage regimen:	1mg/kg PO q12hr * 20 doses
+Meloxicam [1.5mg/ml]	
+Time  	Concentration
+229	6.692323333
+232	3.170453333
+234	1.342976667
+236	0.995586667
+240	1.65862
+244	0.30734
+252	0.01461
+264	0.05112
+276	0.0027
+
+
+
+

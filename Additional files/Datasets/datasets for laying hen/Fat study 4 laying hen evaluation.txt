@@ -1,0 +1,14 @@
+Study 4  laying hen fat evaluation  Figure 6D
+1 mg/kg PO q12h to 20 domestic hens plasma
+Time  	Concentration
+229	0.050443309
+232	0.058042538
+234	0.011491005
+236	0.026258033
+240	0.013423411
+244	0.008763621
+252	0.010269366
+264	0.003154534
+276	0.006267921
+
+

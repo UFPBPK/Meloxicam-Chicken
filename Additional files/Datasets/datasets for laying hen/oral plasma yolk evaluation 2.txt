@@ -1,0 +1,7 @@
+Study 3  egg yolk Evaluation Figure 5C
+1 mg/kg PO q24h to 8 doses domestic hens plasma
+Time  	Concentration
+169	0.039452796
+180	0.025910983
+192	0.043859409
+

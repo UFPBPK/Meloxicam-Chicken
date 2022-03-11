@@ -1,0 +1,13 @@
+Study 4  laying hen liver evaluation Figure 6A
+1 mg/kg PO q12h to 20 domestic hens plasma
+Time  	Concentration
+229	2.528464601
+232	2.621504508
+234	0.827093271
+236	1.0148963
+240	0.48655244
+244	0.342479067
+252	0.250521547
+264	0.013066341
+
+
