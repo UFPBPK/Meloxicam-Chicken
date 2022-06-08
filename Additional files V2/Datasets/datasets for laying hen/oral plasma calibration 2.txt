@@ -1,0 +1,13 @@
+Paper 6  Calibration		Figure 3B
+PO administration of a single 1-mg/kg dose to 8 domestic hens		
+Time  	 Concentration
+0.21	0.176238239
+0.24	1.638182974
+0.52	2.733110614
+0.88	5.678246101
+1.90	6.112650453
+3.89	4.094055717
+8.02	1.297913742
+11.92	0.459087563
+23.96	0.119613645
+48.05	0.023010721

@@ -1,0 +1,11 @@
+Study 3  laying hen liver evaluation Figure 4A
+1 mg/kg PO q24h to 8 doses domestic hens plasma
+Time  	Concentration
+169.0	3.414400899
+172.0	2.763988472
+174	1.924346481
+176	0.99269222
+180	1.239682698
+184	0.558718325
+192	0.067363472
+204	0.016738126

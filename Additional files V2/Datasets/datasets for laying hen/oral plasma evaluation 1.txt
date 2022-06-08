@@ -1,0 +1,12 @@
+Study 3  Evaluation Figure 5A
+1 mg/kg PO q24h to 8 domestic hens plasma
+Time  	Concentration
+169	3.5412
+172	3.1234
+174	2.1112
+176	0.9939
+180	1.1908
+184	0.5524
+192	0.0720
+
+

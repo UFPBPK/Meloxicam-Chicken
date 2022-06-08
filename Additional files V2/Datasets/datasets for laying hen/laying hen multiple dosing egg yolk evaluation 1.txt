@@ -1,0 +1,19 @@
+Paper 5 laying hen egg yolk concentration for meloxicam dataset2 Figure 5B
+Dosage regimen:	1mg/kg PO q12hr * 10 doses
+Meloxicam [1.5mg/ml]	
+Time  	Concentration
+132	0.05
+156	0.078
+180	0.088
+204	0.061
+228	0.0755
+252	0.079
+276	0.01
+300	0.0058
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+Study 5  laying hen kidney evaluation Figure S3C
+1 mg/kg IV once domestic hens plasma
+Time  	Concentration
+4	0.797025
+8	0.281325
+12	0.119575
+18	0.040225
+24	0.01045
+30	0.0044
+
+
+
+
+
+
+

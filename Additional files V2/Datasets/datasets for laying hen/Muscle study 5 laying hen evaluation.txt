@@ -1,0 +1,10 @@
+Study 5  laying hen muscle evaluation  Figure S2D
+1 mg/kg IV once domestic hens 
+Time  	Concentration
+4	0.0684
+8	0.027925
+12	0.00915
+18	0.00435
+
+
+

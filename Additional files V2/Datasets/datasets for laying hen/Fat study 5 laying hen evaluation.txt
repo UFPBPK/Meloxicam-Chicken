@@ -1,0 +1,10 @@
+Study 5  laying hen fat evaluation  Figure S2E
+1 mg/kg IV once domestic hens 
+Time  	Concentration
+4	0.024925
+8	0.011175
+12	0.004575
+18	0.002175
+
+
+

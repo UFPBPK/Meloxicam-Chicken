@@ -1,0 +1,12 @@
+Study 5  laying hen liver evaluation  Figure S2B
+1 mg/kg IV once domestic hens 
+Time  	Concentration
+4	0.801975
+8	0.258375
+12	0.091425
+18	0.0297
+24	0.008625
+30	0.00355
+
+
+
